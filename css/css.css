@@ -1,0 +1,20 @@
+.spiderman {
+    width: 30%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.body {
+    font-family: 'Arial';
+    text-align: auto;
+    max-width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1/1;
+}
+
